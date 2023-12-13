@@ -278,9 +278,9 @@
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
-  margin-left: auto;
+  /*margin-left: auto;
   margin-right: auto;
-  display: block; 
+  display: block; */
 }
 .icon2 {
   position: absolute;
