@@ -734,11 +734,8 @@
   font-family: var(--font-cascadia-code);
 }
 .icon57 {
-  position: absolute;
-  top: 188px;
-  left: 211px;
+  position: centure;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
-  object-fit: cover;
 }
