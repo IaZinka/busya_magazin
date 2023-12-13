@@ -732,6 +732,11 @@
   overflow: hidden;
   font-family: var(--font-cascadia-code);
 }
-.aligncenter {
-    text-align: center;
+.icon57 {
+  position: absolute;
+  top: 188px;
+  left: 211px;
+  width: 1012px;
+  height: 662px;
+  object-fit: cover;
 }
