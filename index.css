@@ -431,6 +431,7 @@
   left: calc(50% - 1109.5px);
   width: 2222px;
   height: 626px;
+  text-align: center;
 }
 .section1 {
   top: calc(50% + 137px);
