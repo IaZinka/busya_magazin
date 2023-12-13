@@ -732,3 +732,6 @@
   overflow: hidden;
   font-family: var(--font-cascadia-code);
 }
+.aligncenter {
+    text-align: center;
+}
