@@ -737,7 +737,8 @@
   position: absolute;
   top: 188px;
   left: 211px;
-  width: 1012px;
-  height: 662px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
   object-fit: cover;
 }
