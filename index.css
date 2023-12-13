@@ -286,10 +286,12 @@
   position: absolute;
   height: 119.38%;
   width: 100%;
+  /*top: 0,21%;*/
   top: 10%;
   right: -15.65%; 
   bottom: -19.6%;
   /*left: 15.65%;*/
+  left: 0;
 }
 .child4 {
   height: 28.71%;
